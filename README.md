@@ -21,6 +21,9 @@ Monitoramento da temperatura
 - Gera gráfico online da temperatura lida.
 - Aciona cargas automaticamente de acordo com a temperatura.
 
+## Gráfico em tempo real da Temperatura
+
+https://thingspeak.com/channels/2596090/charts/3?bgcolor=%23ffffff&color=%23d62020&days=1&dynamic=true&results=100&round=1000&type=line
 
 ## Tecnologias Utilizadas
 
